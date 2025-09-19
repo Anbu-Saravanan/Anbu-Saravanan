@@ -28,4 +28,7 @@ Java Full-Stack Software Developer
 - [Tourism Website](https://github.com/Anbu-Saravanan/Tourism-Website) – Java + Spring + React + MySQL
 - [Portfolio Website](https://anbu-saravanan-portfolio.vercel.app/) – Personal portfolio built with React + Netlify
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anbu-Saravanan&theme=radical)
+
+
 
