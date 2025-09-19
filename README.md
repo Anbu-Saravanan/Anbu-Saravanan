@@ -3,7 +3,7 @@
 Java Full-Stack Software Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://anbu-saravanan-portfolio.vercel.app/)
-- - 🔭 Here's my [Resume]([https://anbu-saravanan-portfolio.vercel.app](https://drive.google.com/drive/folders/1KGWMiHLLNJ82g3wYG4r-HzzGJBKQPmY2)
+- - 🔭 Here's my [Resume](https://drive.google.com/drive/folders/1KGWMiHLLNJ82g3wYG4r-HzzGJBKQPmY2)
 - 🌱 I’m currently learning Java Full stack, FrontEnd, Database and Integrating AI to my workflow
 
 - Social Presence
