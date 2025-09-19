@@ -24,11 +24,18 @@ Java Full-Stack Software Developer
 ![Anbu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anbu-Saravanan&show_icons=true&theme=radical)
 
 ### 🚀 Featured Projects
-- [Event Management System](https://github.com/Anbu-Saravanan/Event-Management-System) – Spring Boot + React + JWT + Email Notifications
-- [Tourism Website](https://github.com/Anbu-Saravanan/Tourism-Website) – Java + Spring + React + MySQL
+- [Event Management System](https://github.com/Anbu-Saravanan/EventManagementSystem) – Spring Boot + React + JWT + Email Notifications
+- [Learning Management System Website](https://github.com/Anbu-Saravanan/lms_springboot_backend) – Java + Spring + React + MySQL
+- [Smart Spend Tracker](https://github.com/Anbu-Saravanan/SmartSpendTrackerSpringBootBackend) – Java + Spring + React + MongoDB
 - [Portfolio Website](https://anbu-saravanan-portfolio.vercel.app/) – Personal portfolio built with React + Netlify
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anbu-Saravanan&theme=radical)
+### ⚡ Fun Facts
+- 💡 I love building real-world apps with Java + Spring Boot with Full stack
+- 🎶 I enjoy Tamil music when coding
+- 🏞️ Nature trips recharge my creativity
+
+![Anbu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anbu-Saravanan&theme=react-dark)
+
 
 
 
