@@ -23,3 +23,9 @@ Java Full-Stack Software Developer
 
 ![Anbu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anbu-Saravanan&show_icons=true&theme=radical)
 
+### 🚀 Featured Projects
+- [Event Management System](https://github.com/Anbu-Saravanan/Event-Management-System) – Spring Boot + React + JWT + Email Notifications
+- [Tourism Website](https://github.com/Anbu-Saravanan/Tourism-Website) – Java + Spring + React + MySQL
+- [Portfolio Website](https://anbu-saravanan-portfolio.vercel.app/) – Personal portfolio built with React + Netlify
+
+
